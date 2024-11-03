@@ -1,5 +1,5 @@
 # sprite-colide-methods
-Lerning the bases for colide methods
+Lerning the bases for colide methods in pygame-ce
 
 This Code Dose not work how it should at this point 
 
